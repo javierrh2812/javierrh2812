@@ -1,16 +1,27 @@
-### Hi there 👋
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-<!--
-**javierrh2812/javierrh2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋 soy Javier. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a MERN dev
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate: linux and javascript
+- 🤔 I’m looking for help with ML and hacking
+- ⚡ Hobbies: create spotify playlist, play musical instruments, and football.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML/CSS
+* JavaScript/React
+* Python
+* C++
+* SpringBoot/Java
+
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
+
+## Get in touch: 
+* Twitter: https://twitter.com/Javier281297
+* Linkedin: https://www.linkedin.com/in/javier-ramos-huamanchumo/
+
+
+
+
