@@ -1,12 +1,14 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-## Hi there! 👋 soy Javier. 
+## Hi there! 👋 soy Javier.
+![10](https://www.codewars.com/users/javierrh2812/badges/large) 
 
 - 🔭 I’m currently working as a MERN dev
-- 🌱 I’m currently learning python
+- 🐍 I’m currently learning python for ai, ml and  data science
 - 👯 I’m looking to collaborate: linux and javascript
 - 🤔 I’m looking for help with ML and hacking
 - ⚡ Hobbies: create spotify playlist, play musical instruments, and football.
+
 
 * HTML/CSS
 * JavaScript/React
