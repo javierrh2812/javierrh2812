@@ -24,6 +24,9 @@
 * Twitter: https://twitter.com/Javier281297
 * Linkedin: https://www.linkedin.com/in/javier-ramos-huamanchumo/
 
+## My projects:
+- La mayoría no está publicada / o no funciona xd
+
 
 
 
