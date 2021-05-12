@@ -3,7 +3,7 @@
 ## Hi there! 👋 soy Javier.
 ![10](https://www.codewars.com/users/javierrh2812/badges/large) 
 
-- 🔭 I’m currently working as a MERN dev
+- 🔭 I <3 MERN stack
 - 🐍 I’m currently learning python for ai, ml and  data science
 - 👯 I’m looking to collaborate: linux and javascript
 - 🤔 I’m looking for help with ML and hacking
