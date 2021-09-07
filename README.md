@@ -20,8 +20,7 @@
 
 
 ## Get in touch: 
-* Twitter: https://twitter.com/Javier281297
-* Linkedin: https://www.linkedin.com/in/javier-ramos-huamanchumo/
+* Linkedin: https://www.linkedin.com/in/javierrh2812/
 
 ## Portfolio (in process)
 * http://javier-ramos.tech or https://javierrh2812.github.io
