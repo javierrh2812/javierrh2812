@@ -4,9 +4,8 @@
 ![10](https://www.codewars.com/users/javierrh2812/badges/large) 
 
 - 🔭 I <3 MERN stack
-- 🐍 I’m currently learning python for ai, ml and  data science
+- 🐍 I’m currently learning python for  data science
 - 👯 I’m looking to collaborate: linux and javascript
-- 🤔 I’m looking for help with ML and hacking
 - ⚡ Hobbies: create spotify playlist, play musical instruments, and football.
 
 
@@ -24,9 +23,8 @@
 * Twitter: https://twitter.com/Javier281297
 * Linkedin: https://www.linkedin.com/in/javier-ramos-huamanchumo/
 
-## My projects:
-- La mayoría no está publicada / o no funciona xd
-
+## Portfolio (in process)
+* http://javier-ramos.tech or https://javierrh2812.github.io
 
 
 
