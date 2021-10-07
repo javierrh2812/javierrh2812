@@ -23,7 +23,7 @@
 * Linkedin: https://www.linkedin.com/in/javierrh2812/
 
 ## Portfolio (in process)
-* http://javier-ramos.tech or https://javierrh2812.github.io
+* htpps://site.javier-ramos.tech or https://javierrh2812.github.io
 
 
 
