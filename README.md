@@ -3,7 +3,7 @@
 ## Hi there! 👋 soy Javier.
 ![10](https://www.codewars.com/users/javierrh2812/badges/large) 
 
-- 🔭 I <3 MERN stack
+- 🔭 MERN stack
 - 🐍 I’m currently learning python for  data science
 - 👯 I’m looking to collaborate: linux and javascript
 - ⚡ Hobbies: create spotify playlist, play musical instruments, and football.
